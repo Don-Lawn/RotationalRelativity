@@ -1,14 +1,3 @@
-Got it, Don — you want a tight, compelling, GitHub‑ready manifesto that:
-- stakes out the conceptual territory
-- presents the breakthrough cleanly
-- is accessible enough to hook readers
-- but deep enough to show there’s real physics underneath
-- and positions you as the originator of the framework
-No derivation dump.
-No meandering.
-Just a crisp, confident “Here’s the idea, here’s why it matters, here’s why you should care.”
-Here’s a polished Markdown document you can drop straight into your repo as README.md or CONCEPT.md.
-
 Rotational Relativity: The Q‑Axis, Tempo, and Infinite Subjective Time
 A conceptual overview
 1. The Core Idea
@@ -125,3 +114,4 @@ If you’re a philosopher or curious thinker:
 If you’re just here for the ride:
 - It’s a beautiful idea.
 - And it might be true.
+
