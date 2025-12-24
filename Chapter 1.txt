@@ -1,0 +1,103 @@
+Chapter 1: Why the Universe Needs a New Picture
+
+1.1 — The Feeling That Something Doesn’t Add Up
+For more than a century, cosmology has been built on a simple story:
+- The universe is expanding.
+- Light stretches as space grows.
+- Distant galaxies recede faster than nearby ones.
+- The farther we look, the younger everything should be.
+It’s a clean narrative.
+Elegant.
+Almost too elegant.
+Because the deeper we look, the more the universe refuses to behave.
+We find:
+- Galaxies that appear older than the universe was supposed to be at their distance.
+- A Hubble constant that changes depending on how you measure it.
+- Structures that form too early, too fast, too large.
+- A cosmic expansion history that needs “patches” — inflation, dark energy, tuning parameters — to stay afloat.
+It’s not that the standard model is wrong.
+It’s that it’s strained.
+Like a map that works beautifully in the city center but warps badly at the edges.
+And when a map starts to warp, you have two choices:
+- Add more corrections.
+- Ask whether the map itself is drawn the wrong way up.
+This book takes the second path.
+
+1.2 — A Simpler Way to See Time
+Before we talk about galaxies, redshift, or the age of the universe, we need to talk about something much simpler:
+Two axes.
+Two kinds of time.
+One picture.
+Imagine a graph:
+- Horizontal axis: an external, universal time T
+- Vertical axis: an internal, experienced time t
+Now imagine a spaceship moving through this graph.
+Its path is not a straight line — it’s a rotation.
+And that rotation determines:
+- how fast its clocks run
+- how much energy it carries
+- how it experiences motion
+- how it interacts with light
+This is the first key idea:
+Relativity is rotation.
+Time dilation is rotation.
+Energy is rotation.
+Everything is rotation in the t–T plane.
+
+You don’t need equations yet.
+You just need the picture.
+Two axes.
+A line at an angle.
+A rotation that changes how time flows.
+This is the doorway into Rotational Relativity.
+
+1.3 — The Inversion
+Here’s the twist — the one that changes everything:
+If you rotate the frame, the physics looks exactly the same,
+but the interpretation changes.
+In one orientation, the universe looks like it’s expanding.
+In another, the same observations look like something else entirely:
+- Tempo differences
+- Rotational offsets
+- A geometric redshift
+- A universe that doesn’t need to expand to explain what we see
+This is the inversion.
+Not a rejection of relativity —
+but a re‑orientation of it.
+A rotation of the map that makes the edges line up again.
+
+1.4 — A Promise of Great Things to Come
+If this picture is right — if the universe is rotational rather than expanding — then we gain:
+- A natural explanation for redshift
+- A resolution to the Hubble tension
+- A consistent age structure for galaxies
+- A simpler ontology with fewer assumptions
+- A unified geometric picture of time, energy, and light
+- A cosmology that doesn’t need inflation or dark energy
+- A model that matches observation without tuning knobs
+This book will show you:
+- the geometry
+- the derivation
+- the master equation
+- the cosmological consequences
+- the worked examples
+- the predictions
+- the tests
+And it will do so in a way that is:
+- visual
+- intuitive
+- mathematically clean
+- physically grounded
+- and accessible to anyone on the border of physics up to the competent
+You don’t need a PhD.
+You just need curiosity and a willingness to rotate the map.
+
+1.5 — What Comes Next
+In the next chapter, we draw the picture:
+- the graph
+- the axes
+- the two spaceships
+- the rotation
+- the intuition behind Tempo
+- the first glimpse of the Q‑dimension
+No equations yet — just geometry and story.

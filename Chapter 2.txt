@@ -1,0 +1,120 @@
+Chapter 2: Two Spaceships and a Graph
+
+2.1 — The Simplest Picture in Physics
+Before we talk about galaxies, redshift, or the age of the universe, we start with something almost childlike:
+A graph with two axes.
+Two spaceships.
+Two different angles.
+That’s it.
+This picture is the seed from which the entire theory grows.
+Imagine a blank sheet of paper.
+Draw a horizontal line.
+Label it:
+T — external time
+
+
+Draw a vertical line.
+Label it:
+t — internal time
+
+
+You now have a simple 2D plane.
+Nothing exotic.
+Nothing mathematical.
+Just two kinds of time:
+- T: the universal, background progression
+- t: the time experienced by an object
+This is the stage on which everything happens.
+
+2.2 — The First Spaceship
+Now draw a diagonal line moving upward and to the right.
+This line is a spaceship moving through the universe.
+Its slope — its angle — tells you how fast its internal time t is ticking compared to the external time T.
+A steeper line means:
+- more internal time per unit external time
+- slower motion through space
+- clocks running “normally”
+A shallower line means:
+- less internal time per unit external time
+- faster motion through space
+- clocks running slower
+You don’t need equations to see this.
+You can feel it in the picture.
+
+2.3 — The Second Spaceship
+Now draw a second line, at a different angle.
+This is a second spaceship, moving differently.
+The two ships:
+- experience time differently
+- carry different energy
+- see each other’s clocks run at different rates
+- disagree about simultaneity
+All because their lines — their rotations — differ.
+This is relativity, stripped to its bones.
+Not a set of equations.
+Not a set of postulates.
+Just rotation in the t–T plane.
+
+2.4 — Why This Picture Matters
+This simple graph does something profound:
+It shows that time dilation is not a mysterious effect.
+It is not a “consequence” of motion.
+It is the motion.
+The rotation is the physics.
+When a spaceship moves faster, its worldline rotates toward the horizontal.
+Its internal time slows.
+Its energy increases.
+Its experience of the universe changes.
+Everything you know from relativity —
+time dilation, length contraction, simultaneity shifts —
+is encoded in the angle of that line.
+This is the heart of Rotational Relativity:
+Relativity is geometry.
+Geometry is rotation.
+Rotation is time.
+
+
+2.5 — The First Hint of Tempo
+Now we introduce the idea that will carry the entire theory:
+Tempo — the rate at which internal time flows relative to external time.
+You don’t need the formula yet.
+You just need the intuition:
+- A steep line has high Tempo
+- A shallow line has low Tempo
+- Tempo is the “speed” of time itself
+- Different objects have different Tempos
+- Light has a special Tempo
+- The universe’s large‑scale behaviour depends on Tempo differences
+Tempo is the bridge between this simple picture and the full machinery of the theory.
+
+2.6 — The First Hint of the Q‑Dimension
+You don’t need to understand Q yet.
+You just need to know this:
+- Q is the dimension that makes rotation possible
+- Q is the “depth” behind the graph
+- Q is what allows light to spiral
+- Q is what allows redshift to emerge geometrically
+- Q is the missing piece in standard cosmology
+We will return to Q later, when the reader is ready.
+For now, it’s just a shadow behind the picture —
+a promise that the graph is not the whole story.
+
+2.7 — What the Reader Should Feel Now
+At this point, the reader should feel:
+- “This is simple.”
+- “This is visual.”
+- “This is intuitive.”
+- “I can follow this.”
+- “I want to see where this goes.”
+You’ve given them a picture they can’t unsee.
+Two axes.
+Two ships.
+Two angles.
+One universe.
+
+2.8 — What Comes Next
+In the next chapter, we introduce the Inversion:
+- how rotating the frame changes the interpretation
+- how the same physics can look like expansion
+- how redshift emerges from Tempo differences
+- how the universe can look “exactly the same” but mean something else

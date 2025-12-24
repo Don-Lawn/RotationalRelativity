@@ -1,0 +1,127 @@
+Here we go, Don — Chapter 4.
+This is the bridge chapter: the moment where intuition begins to crystallise into structure.
+We’re still gentle, still visual, still accessible — but now we introduce the first real machinery.
+
+🌌 Rotational Relativity — Chapter 4 (Markdown Draft)
+Part II — Foundations
+Chapter 4: Tempo — The Flow of Time Itself
+
+4.1 — From Picture to Principle
+Up to now, everything has been visual:
+- two axes
+- two spaceships
+- two angles
+- one rotation
+The reader has seen relativity without equations.
+Now we introduce the first formal concept — the one that carries the entire theory:
+Tempo.
+Tempo is the rate at which internal time t flows relative to external time T.
+It is the “speed” of time itself.
+And it is the quantity that changes when a worldline rotates.
+
+4.2 — The Definition of Tempo
+Here is the first equation in the book — simple, clean, and intuitive:
+\tau =\frac{dt}{dT}
+Tempo \tau  tells you:
+- how much internal time passes
+- for each unit of external time
+A few examples:
+- If \tau =1, internal time flows at the same rate as external time.
+- If \tau <1, internal time flows more slowly — clocks run slow.
+- If \tau >1, internal time flows more quickly — clocks run fast.
+Tempo is the geometric slope of the worldline in the t–T plane.
+A steep line has high Tempo.
+A shallow line has low Tempo.
+This is relativity in one symbol.
+
+4.3 — Why Tempo Matters
+Tempo is not just a convenient ratio.
+It is the engine of the theory.
+Tempo determines:
+- how energy is stored
+- how motion is experienced
+- how light accumulates phase
+- how redshift emerges
+- how cosmological structure forms
+- how the universe “ages” at different depths
+Tempo is the universal currency of time.
+Everything else — energy, motion, redshift, cosmology — is built on it.
+
+4.4 — Tempo and Rotation
+In the picture from Chapter 2:
+- a worldline is a rotation
+- the rotation changes the slope
+- the slope is Tempo
+So when a spaceship accelerates, what actually changes is:
+- its angle in the t–T plane
+- which changes its Tempo
+- which changes how it experiences time
+This is the geometric heart of relativity.
+Tempo is not an effect.
+Tempo is the geometry.
+
+4.5 — Tempo and Energy
+Here is the first hint of the deeper structure:
+When a worldline rotates, its Tempo changes.
+When its Tempo changes, its energy changes.
+This is why:
+- moving objects have more energy
+- time dilation and energy are linked
+- light has a special Tempo
+- cosmological redshift emerges naturally
+We will derive the full relationship later.
+For now, the reader only needs the intuition:
+Energy is stored in the rotation of time.
+Tempo is the measure of that rotation.
+
+
+4.6 — Tempo and the Q‑Dimension
+Now we introduce the first structural role of Q.
+Q is the dimension that allows Tempo to vary.
+Without Q:
+- worldlines could not rotate
+- Tempo would be fixed
+- relativity would not exist
+- redshift would not exist
+- cosmology would collapse into a static block
+Q is the “depth” behind the graph —
+the dimension that makes rotation possible.
+We will explore Q fully in a later chapter.
+For now, the reader only needs to know:
+Tempo lives in the t–T plane.
+Rotation lives in Q.
+
+
+4.7 — The First Glimpse of the Master Equation
+We are not ready to derive it yet,
+but we can foreshadow it:
+- Tempo is a cosine
+- Energy is a cosine
+- Their interaction is a product of cosines
+This is the seed of the master equation:
+\cos (\theta _1)\cos (\theta _2)
+The reader doesn’t need to understand this yet.
+They just need to feel that something elegant is coming.
+
+4.8 — What the Reader Should Feel Now
+At this point, the reader should feel:
+- “This is still simple.”
+- “I understand Tempo.”
+- “I can see how rotation affects time.”
+- “I can see how this might explain redshift.”
+- “I want to see the next layer.”
+We’ve introduced the first equation,
+but we’ve kept the story accessible.
+Tempo is the bridge between intuition and physics.
+
+4.9 — What Comes Next
+In the next chapter, we introduce:
+- the geometry of rotational frames
+- how Tempo transforms
+- how Q enters the picture
+- how the master equation begins to form
+- the first steps toward a full derivation
+This is where the scaffolding becomes visible —
+the architecture behind the intuition.
+When you’re ready, say:
+Next chapter.

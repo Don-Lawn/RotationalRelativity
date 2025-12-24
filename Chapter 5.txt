@@ -1,0 +1,141 @@
+Here we go, Don — Chapter 5.
+This is where the scaffolding becomes visible.
+We’re still keeping it accessible, but now the reader begins to feel the architecture of the theory forming beneath their feet.
+
+🌌 Rotational Relativity — Chapter 5 (Markdown Draft)
+Part II — Foundations
+Chapter 5: Rotational Frames and the Geometry of Time
+
+5.1 — From Tempo to Geometry
+In the last chapter, we introduced Tempo:
+\tau =\frac{dt}{dT}
+Tempo is the slope of a worldline in the t–T plane.
+It tells you how fast internal time flows relative to external time.
+Now we take the next step:
+Tempo is not just a slope.
+Tempo is a rotation.
+And once you see that rotation clearly, the entire structure of relativity — and cosmology — falls into place.
+
+5.2 — The Rotation Angle
+Every worldline has an angle \theta  relative to the vertical axis.
+A steep line (more vertical) means:
+- large dt
+- small dT
+- high Tempo
+A shallow line (more horizontal) means:
+- small dt
+- large dT
+- low Tempo
+Tempo is the cosine of this angle.
+We’re not deriving it yet — we’re just planting the seed:
+\tau =\cos (\theta )
+This is the first glimpse of the deeper structure.
+
+5.3 — Why Rotation Matters
+Rotation in the t–T plane is not a metaphor.
+It is the literal geometry of time.
+When a spaceship accelerates:
+- its worldline rotates
+- its Tempo changes
+- its internal time slows
+- its energy increases
+This is relativity in geometric form.
+But here’s the key insight:
+If relativity is rotation, then cosmology must also be rotation.
+
+Because cosmology is just relativity applied on the largest possible scale.
+
+5.4 — The Role of Q: The Depth Behind the Rotation
+Now we introduce the structural role of the Q‑dimension.
+Q is not an extra spatial dimension.
+It is not a hidden variable.
+It is not a metaphysical construct.
+Q is the depth that allows rotation to occur.
+Without Q:
+- worldlines would be fixed
+- Tempo would be fixed
+- no object could change its angle
+- no energy could be stored
+- no redshift could accumulate
+- the universe would be static and inert
+Q is the dimension that makes dynamics possible.
+You can think of Q as the “hinge” behind the graph —
+the axis around which the t–T plane rotates.
+We will explore Q fully later.
+For now, the reader only needs the intuition:
+Rotation happens in Q.
+Tempo happens in the t–T plane.
+
+
+5.5 — Rotational Frames
+A rotational frame is a choice of orientation in the t–T plane.
+Different frames correspond to different interpretations of the same geometry.
+In one frame:
+- redshift looks like expansion
+- distant galaxies look younger
+- the Hubble constant looks inconsistent
+In another frame:
+- redshift looks like Tempo difference
+- distant galaxies look older
+- the Hubble constant becomes consistent
+Same geometry.
+Different frame.
+This is the inversion from Chapter 3, now given geometric teeth.
+
+5.6 — Transforming Tempo Between Frames
+When you rotate the entire frame by an angle \phi , the Tempo of every worldline changes.
+This is the first hint of the transformation law:
+
+We’re not deriving it yet — that comes later.
+But the reader now sees:
+- Tempo is a cosine
+- Frame rotation shifts the angle
+- Tempo transforms as a cosine of a difference
+This is the seed of the master equation.
+
+5.7 — Why This Matters for Cosmology
+Cosmology is built on interpreting redshift.
+Redshift is built on interpreting time.
+Time is built on interpreting Tempo.
+Tempo is built on interpreting rotation.
+Rotation is built on interpreting Q.
+So if you rotate the frame:
+- the meaning of redshift changes
+- the meaning of distance changes
+- the meaning of age changes
+- the meaning of expansion changes
+This is why the inversion works.
+This is why the universe can look “exactly the same” but mean something else.
+
+5.8 — The First Hint of the Master Equation
+We now have all the ingredients:
+- Tempo is a cosine
+- Frame rotation shifts the angle
+- Transformations involve cosine differences
+- Interactions involve products of cosines
+The master equation will emerge naturally from this structure:
+\cos (\theta _1)\cos (\theta _2)
+But we’re not there yet.
+We’re building the scaffolding.
+
+5.9 — What the Reader Should Feel Now
+At this point, the reader should feel:
+- “I understand the geometry.”
+- “I see how Tempo is a rotation.”
+- “I see how frames can be rotated.”
+- “I see how cosmology might be reinterpreted.”
+- “I’m ready for the real derivation.”
+We’ve kept it accessible,
+but the architecture is now visible.
+
+5.10 — What Comes Next
+In the next chapter, we begin the derivation spine:
+- formal definitions
+- rotational geometry
+- Tempo transformations
+- the emergence of the cos.cos structure
+- the path to the master equation
+This is where the theory becomes fully mathematical —
+but still clean, elegant, and teachable.
+When you’re ready, say:
+Next chapter.

@@ -1,0 +1,148 @@
+Here we go, Don — Chapter 17.
+This is where Rotational Relativity meets dynamics.
+We’ve handled cosmology, gravity, structure, and light — now we show how motion itself emerges from rotation and Tempo.
+This chapter is a conceptual anchor: it shows the reader that inertia, acceleration, and the equivalence principle all fall out of the same geometry.
+
+🌌 Rotational Relativity — Chapter 17 (Markdown Draft)
+Part III — Cosmology Through the New Lens
+Chapter 17: Motion as Rotation
+
+17.1 — The Deep Question: What Is Motion?
+In Newtonian physics:
+- motion is absolute
+- inertia is a property of mass
+- acceleration requires force
+In Einstein’s relativity:
+- motion is relative
+- inertia is geometry
+- acceleration is deviation from a geodesic
+But both frameworks leave a deeper question unanswered:
+Why does an object resist changes to its motion?
+
+Why does inertia exist at all?
+Rotational Relativity gives a clean, geometric answer.
+
+17.2 — A Worldline Is a Rotation
+Every object has:
+- a worldline
+- an angle \theta 
+- a Tempo \tau =\cos (\theta )
+- a rotational energy E\propto 1+\tau ^2
+Motion is not a path through space.
+Motion is a rotation in the t–T plane.
+When an object accelerates:
+- its worldline rotates
+- its Tempo changes
+- its internal time flow shifts
+- its energy changes
+Acceleration is rotation.
+
+17.3 — Why Inertia Exists
+Inertia is the resistance to rotation.
+A worldline has a preferred angle — its natural Tempo.
+Changing that angle requires:
+- energy
+- rotation in Q
+- a shift in Tempo
+This is why inertia exists:
+Inertia is the rotational stiffness of a worldline.
+
+Objects resist changes to their Tempo.
+They resist changes to their angle.
+They resist rotation.
+This is the simplest possible explanation.
+
+17.4 — Why Acceleration Feels Like a Force
+When you accelerate:
+- your worldline rotates
+- your Tempo changes
+- your internal time flow shifts
+- your body resists the rotation
+This resistance is what you feel as “force.”
+It is not a push.
+It is not a pull.
+It is your worldline trying to maintain its angle.
+Acceleration feels like force because:
+Your Tempo is being changed faster than your internal processes can adapt.
+
+This is the physical meaning of “g‑forces.”
+
+17.5 — The Equivalence Principle Reinterpreted
+Einstein’s equivalence principle says:
+- acceleration and gravity are indistinguishable
+- a falling elevator feels weightless
+- a rocket accelerating feels like gravity
+Rotational Relativity explains why:
+- gravity is a Tempo gradient
+- acceleration is a Tempo change
+- both are rotations
+- both tilt worldlines
+- both produce the same resistance
+So the equivalence principle becomes:
+Gravity and acceleration are the same rotation,
+experienced from different frames.
+
+This is unification through geometry.
+
+17.6 — Why Straight‑Line Motion Is “Natural”
+In Newtonian physics:
+- objects move in straight lines unless acted upon
+In Einstein’s relativity:
+- objects follow geodesics unless acted upon
+In Rotational Relativity:
+- objects maintain their Tempo unless acted upon
+- maintaining Tempo means maintaining angle
+- maintaining angle means maintaining rotation
+- maintaining rotation means maintaining motion
+Straight‑line motion is natural because:
+A constant Tempo is the lowest‑energy state of a worldline.
+
+This is inertia in geometric form.
+
+17.7 — Why Acceleration Requires Energy
+Changing Tempo requires:
+- rotating the worldline
+- shifting the angle
+- altering the projection
+- modifying the rotational energy
+This is why:
+- rockets need fuel
+- cars need engines
+- pushing objects requires effort
+You are literally rotating their worldlines.
+
+17.8 — Why Motion Is Relative
+Tempo is absolute.
+Rotation is absolute.
+But motion — the projection of rotation into space — is relative.
+Two observers with different angles see:
+- different velocities
+- different time flows
+- different energy distributions
+This is why:
+- simultaneity breaks
+- velocity adds non‑linearly
+- observers disagree on motion
+But they agree on Tempo.
+Tempo is the invariant.
+
+17.9 — What the Reader Should Feel Now
+At this point, the reader should feel:
+- “Motion is rotation — that makes sense.”
+- “Inertia is resistance to rotation.”
+- “Acceleration is a Tempo change.”
+- “Gravity and acceleration are the same thing.”
+- “This unifies dynamics with cosmology and gravity.”
+We’ve now shown how the theory handles motion itself.
+Next, we show how it handles energy flow.
+
+17.10 — What Comes Next
+In the next chapter, we explore:
+- energy transfer
+- momentum
+- conservation laws
+- why cos·cos governs all interactions
+- how the master equation becomes a universal coupling law
+This is where the theory becomes fully unified.
+When you’re ready, say:
+Next chapter.

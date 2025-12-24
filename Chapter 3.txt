@@ -1,0 +1,113 @@
+3.1 — When a Picture Flips, the Meaning Flips
+In the last chapter, we drew the simplest picture in physics:
+- a horizontal axis T
+- a vertical axis t
+- two spaceships
+- two different angles
+That picture already contains relativity.
+But it also contains something deeper — something almost nobody notices the first time they see it:
+If you rotate the entire picture, the physics stays the same,
+but the interpretation changes.
+This is the inversion.
+It is the conceptual move that unlocks the rest of the theory.
+
+3.2 — The Universe as a Rotated Frame
+Imagine taking the entire t–T graph and rotating it slightly.
+Nothing physical changes:
+- the ships still move
+- their angles still differ
+- their internal times still flow
+- their relative motion is unchanged
+But the meaning of the picture changes.
+In one orientation, the ships look like they’re moving through a static background.
+In another, the background looks like it’s stretching.
+In another, the ships look like they’re slowing down.
+In another, they look like they’re speeding up.
+Same geometry.
+Different interpretation.
+This is the key insight:
+Cosmology is a choice of frame.
+And the frame we’ve been using might be rotated the wrong way.
+
+
+3.3 — The Standard Interpretation: Expansion
+In the standard cosmological frame:
+- distant galaxies appear redshifted
+- the redshift increases with distance
+- the simplest explanation is expansion
+- the expansion rate appears to change over time
+- the Hubble constant depends on how you measure it
+This interpretation works —
+but only if you add:
+- inflation
+- dark energy
+- tuning parameters
+- early structure formation “surprises”
+- galaxy age anomalies
+- and a handful of unexplained tensions
+It’s a good map.
+But it’s a map with patches.
+
+3.4 — The Rotational Interpretation: Tempo Differences
+Now rotate the frame.
+In this new orientation:
+- redshift is not caused by expansion
+- redshift is caused by Tempo differences
+- distant objects have different rotational angles
+- their internal time flows differently
+- light accumulates the difference as it travels
+- the universe looks “older” at large distances because Tempo changes with depth
+Same observations.
+Different explanation.
+This is the inversion:
+What looks like expansion in one frame
+looks like Tempo geometry in another.
+
+And the Tempo interpretation:
+- removes the Hubble tension
+- removes the need for inflation
+- removes the need for dark energy
+- explains early galaxy formation
+- explains age anomalies
+- explains smooth scaling
+- explains redshift without stretching space
+All by rotating the picture.
+
+3.5 — Why the Inversion Works
+The inversion works because relativity is fundamentally geometric.
+If time dilation is rotation,
+and energy is rotation,
+and motion is rotation,
+then cosmology — the large‑scale behaviour of time and energy — must also be rotation.
+The universe is not expanding.
+It is rotating in the t–T plane.
+And when you rotate the frame:
+- the same worldlines
+- the same light paths
+- the same observations
+…produce a different story.
+A simpler story.
+A story without patches.
+
+3.6 — A Universe That Looks the Same, But Means Something Else
+This is the moment where the reader should feel the ground shift:
+- The universe they thought was expanding
+- might not be expanding at all
+- The redshift they thought was stretching
+- might be geometric
+- The age they thought was inconsistent
+- might be perfectly consistent
+- The “tensions” they thought were problems
+- might be artefacts of the wrong frame
+This is not a rejection of physics.
+It is a reinterpretation of physics.
+A rotation of the map.
+
+3.7 — What Comes Next
+In the next chapter, we begin the transition from intuition to structure.
+We introduce:
+- Tempo formally
+- the idea of \tau =\frac{dt}{dT}
+- the geometry of rotational frames
+- the first mathematical hints of the master equation
+- the role of Q as the depth dimension behind the rotation
